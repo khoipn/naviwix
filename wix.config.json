@@ -1,0 +1,5 @@
+{
+  "$schema": "https://dev.wix.com/wix-cli/schemas/wix-config.json",
+  "appId": "86ac34ce-074b-4d6b-9dac-92a4915b530a",
+  "projectId": "naviwix2"
+}
